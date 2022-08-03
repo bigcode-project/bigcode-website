@@ -1,6 +1,6 @@
 ---
-title : "An open scientific collaboration around large text2code models"
-description: "Big Code is a ..."
+title : "A text2code collaboration"
+description: "Big Code is an open-scientific collaboration around training large text2code models"
 lead: "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
 date: 2020-10-06T08:47:36+00:00
 lastmod: 2020-10-06T08:47:36+00:00
