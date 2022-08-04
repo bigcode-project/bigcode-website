@@ -4,11 +4,11 @@
   identifier = "about"
   url = "/docs/about/mission"
 
-[[docs]]
-  name = "How to join?"
-  weight = 60
-  identifier = "join"
-  url = "/docs/join/"
+# [[docs]]
+#  name = "How to join?"
+#  weight = 60
+#  identifier = "join"
+#  url = "/docs/join/"
 
 # [[docs]]
 #   name = "Lorem"
