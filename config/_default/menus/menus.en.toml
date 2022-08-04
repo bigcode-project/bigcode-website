@@ -1,14 +1,14 @@
 [[docs]]
-  name = "Prologue"
+  name = "About the project"
   weight = 10
-  identifier = "prologue"
-  url = "/docs/prologue/"
+  identifier = "about"
+  url = "/docs/about/"
 
 [[docs]]
-  name = "Help"
+  name = "How to join?"
   weight = 60
-  identifier = "help"
-  url = "/docs/help/"
+  identifier = "join"
+  url = "/docs/join/"
 
 # [[docs]]
 #   name = "Lorem"
@@ -39,16 +39,16 @@
 #   url = "/tutorial/lorem/ipsum/"
 #   weight = 15
 
-[[main]]
-  name = "Blog"
-  url = "/blog/"
-  weight = 20
+#[[main]]
+#  name = "Blog"
+#  url = "/blog/"
+#  weight = 20
 
 [[main]]
   name = "How to join?"
   weight = 30
-  identifier = "get-started"
-  url = "/docs/prologue/introduction/"
+  identifier = ""
+  url = "/docs/join"
 
 #[[main]]
 #  name = "Quick Start"
