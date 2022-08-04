@@ -2,7 +2,7 @@
   name = "About the project"
   weight = 10
   identifier = "about"
-  url = "/docs/about/"
+  url = "/docs/about/mission"
 
 [[docs]]
   name = "How to join?"
@@ -30,7 +30,7 @@
 
 [[main]]
   name = "About the project"
-  url = "/docs/prologue/introduction/"
+  url = "/docs/about/mission"
 # url = "/docs/1.0/prologue/introduction/"
   weight = 10
 
