@@ -55,4 +55,3 @@ Find out how to contribute to Doks. [Contributing →](https://getdoks.org/docs/
 
 ## Help
 
-Get help on Doks. [Help →]({{< relref "how-to-update" >}})
