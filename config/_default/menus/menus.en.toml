@@ -48,7 +48,7 @@
   name = "How to join?"
   weight = 30
   identifier = ""
-  url = "/docs/join"
+  url = "/docs/about/join"
 
 #[[main]]
 #  name = "Quick Start"
