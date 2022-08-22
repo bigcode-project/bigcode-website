@@ -12,9 +12,9 @@ menu:
 weight: 100
 toc: true
 ---
-Large Language Models (LLMs) are fast becoming an essential tool for all fields of AI research. These large, general-purpose models—-also known as foundation models—-can be adapted to a wide variety of language tasks with little domain-specific data. However, developing these models is increasingly challenging for academia, non-profits, and smaller industry labs because of their high training costs and large engineering efforts. In 2021, the [Big Science collaboration](https://bigscience.huggingface.co/) was launched to democratise the training of such LLMs and their year-long program successfully ended with the release of [BLOOM](https://huggingface.co/bigscience/bloom), the World’s Largest Open Multilingual Language Model. 
+Large Language Models (LLMs) are fast becoming an essential tool for all fields of AI research. These large, powerful models—-also known as foundation models—-can be adapted to a wide variety of language tasks with little domain-specific data. However, the high training cost and large engineering efforts make it increasingly difficult for academia and smaller industry labs to develop such models. In 2021, the [Big Science collaboration](https://bigscience.huggingface.co/) was launched to democratise the training of such LLMs and their year-long program successfully ended with the release of the [World’s Largest Open Multilingual Language Model](https://huggingface.co/bigscience/bloom). 
 
-Building on the success of Big Science, we introduce Big Code: an open-scientific collaboration focused on LLMs for code. The purpose of this open-source initiative is to collaboratively conduct research on all aspects of LLMs for code. We actively seek contributions from AI practitioners who are interested in the following topics:
+Building on this success, we introduce Big Code: an open-scientific collaboration focused on LLMs for code. The purpose of this open-source initiative is to collaboratively conduct research on all aspects of LLMs for code. The collaboration actively seek contributions from AI practitioners who are interested in the following topics:
 - Curating training datasets for code LLMs
 - Distributed training methods for LLMs
 - Developing a representative evaluation suite for code LLMs (i.e., covering multiple tasks and programming languages)
