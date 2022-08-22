@@ -14,9 +14,9 @@ toc: true
 ---
 Large Language Models (LLMs) are fast becoming an essential tool for all fields of AI research. These large, general-purpose models—-also known as foundation models—-can be adapted to a wide variety of language tasks with little domain-specific data. However, developing these models is increasingly challenging for academia, non-profits, and smaller industry labs because of their high training costs and large engineering efforts. In 2021, the [Big Science collaboration](https://bigscience.huggingface.co/) was launched to democratise the training of such LLMs and their year-long program successfully ended with the release of [BLOOM](https://huggingface.co/bigscience/bloom), the World’s Largest Open Multilingual Language Model. 
 
-Building on the success of Big Science, we introduce Big Code, an open-scientific collaboration working on LLMs for code. In this initiative we conduct open research on all aspects of code LLMs, including:
-- Training and releasing LLMs for code
-- Collecting and releasing training datasets
+Building on the success of Big Science, we introduce Big Code, an open collaboration focused on LLMs for code. The purpose of this open-source initiative is to collaboratively conduct research on developing, exploring, and releasing LLMs for code. We actively seek contributions from AI practitioners who are interested in the following aspects of code LLMs:
+- Curating training datasets for code LLMs
+- Distributed training methods for LLMs
 - Developing a representative evaluation suite for code LLMs (i.e., covering multiple tasks and programming languages)
-- Developing methods for faster training and inference
+- Developing methods for faster training and inference of LLMs
 - Discussing the legal aspects of Code LLMs
