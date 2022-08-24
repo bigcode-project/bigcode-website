@@ -1,7 +1,7 @@
 ---
 title: "How we manage IP"
-description: "One page summary of how to start a new Doks project."
-lead: "One page summary of how to start a new Doks project."
+description: ""
+lead: ""
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00
 draft: false
@@ -12,68 +12,8 @@ menu:
 weight: 120
 toc: true
 ---
+Contributions to BigCode are carried under an Apache 2.0 license :scales: The Apache 2.0 license is the most commonly used open source license due to its permissive character and clarity regarding copyright and patents :hugging_face:
 
-## Requirements
+:bangbang:Please take a look at the license before submitting any contributions! More specifically, please have a look at the definition of “Contribution” and Clause 5 “Submission of Contributions”. We believe the soul of BigCode to be clear and transparent communication striving towards open collaboration:raised_hands: Thus, in case you do not feel comfortable licensing some of your contributions to the project under the Apache 2.0, please make it explicit to BigCode folks! We will see how to work around and make everyone comfortable :+1:
 
-- [Git](https://git-scm.com/) — latest source release
-- [Node.js](https://nodejs.org/) — latest LTS version or newer
-
-{{< details "Why Node.js?" >}}
-Doks uses npm (included with Node.js) to centralize dependency management,resources, build tooling, plugins, and build scripts.
-{{< /details >}}
-
-## Start a new Doks project
-
-Create a new site, change directories, install dependencies, and start development server.
-
-### Create a new site
-
-Doks is available as a child theme and a starter theme.
-
-#### Child theme
-
-- Intended for novice to intermediate users
-- Intended for minor customizations
-
-
-```bash
-git clone https://github.com/h-enk/doks-child-theme.git my-doks-site
-```
-
-#### Starter theme
-
-- Intended for intermediate to advanced users
-- Intended for major customizations
-
-
-```bash
-git clone https://github.com/h-enk/doks.git my-doks-site
-```
-
-{{< details "Help me choose" >}}
-Not sure which one is for you? Pick the child theme.
-{{< /details >}}
-
-### Change directories
-
-```bash
-cd my-doks-site
-```
-
-### Install dependencies
-
-```bash
-npm install
-```
-
-### Start development server
-
-```bash
-npm run start
-```
-
-Doks will start the Hugo development webserver accessible by default at `http://localhost:1313`. Saved changes will live reload in the browser.
-
-## Other commands
-
-Doks comes with commands for common tasks.
+We are flexible and understand that each contributor in this project might have its own interests besides the collective BigCode effort and we are committed to strike a balance between BigCode’s collaborative efforts and stakeholders’ own interests aside the project, this is why clear communication is key in these instances :100: Any questions you may have, please reach us out: CONTACT INFO
