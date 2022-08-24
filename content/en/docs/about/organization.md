@@ -15,5 +15,5 @@ toc: true
 
 Big Code is led by [ServiceNow Research](https://servicenow.com/research) and [HuggingFace](https://huggingface.co). Both organizations commit research and engineering time to ensure that the collaboration runs smoothly. ServiceNow Research also makes their compute cluster available for large-scale training. 
 
-Big Code operates with a bi-yearly cadence. Each half year we discuss and set the goals for the next six months of work. For the first half year, we are committed to the following objectives:
-- 
+Big Code operates with a bi-yearly cadence. Each half year we discuss and set milestones for the next six months of work. For the first half year, we are committed to the following objectives:
+- TBD
