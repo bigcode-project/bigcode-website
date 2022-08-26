@@ -18,7 +18,7 @@ Contributions to BigCode are carried under an Apache 2.0 license. The Apache 2.0
 ## Contributions under a different license
 In case you do not feel comfortable licensing some of your contributions to the project under the Apache 2.0, please make this explicit to us. We will see how to work around and make everyone comfortable. Note that for contributions with a non-permissive license, our general policy is to put them in a separate Github repository that lives outside the Big Code organisation.
 
-## Balance with stakeholder's own interest
+## Balance with stakeholders' own interest
 We are flexible and understand that each individual contributor or contributing party might have its own interests besides the collective Big Code effort and we are committed to strike a balance between Big Code’s collaborative efforts and stakeholders’ own interests. In case a stakeholder decides to change its licensing strategy moving forward, we expect that previously submitted contributions to Big Code remain available under a permissive license. 
 
 ## No CLA
