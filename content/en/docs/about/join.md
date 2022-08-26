@@ -13,9 +13,6 @@ weight: 630
 toc: true
 ---
 
-We are excited to invite AI practitioners from diverse backgrounds to join Big Code. Big Code is a *research* collaboration and we therefore expect participants to have a professional AI background and to commit some of their time to the project. For example, we believe that the following backgrounds are a good fit for the project..
+We are excited to invite AI practitioners from diverse backgrounds to join the Big Code project! Note that Big Code is a *research* collaboration and is open to participants who (1) have a professional research background and (2) are able to commit time to the project.  We expect applicants to be affiliated with a research organization (either in academia or industry) and work on the technical/ethical/legal aspects of LLMs for code. 
 
-- A master or PhD student working on text2code applications  
-- A research scientist or engineer at a industry lab and working on the technical/ethical/legal aspects of large language models
-
-.. but we are open to all applications. [Please fill the form here!](TODO) 
+Please apply to the Big Code project [here!](TODO) 
