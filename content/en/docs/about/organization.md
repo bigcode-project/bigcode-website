@@ -28,4 +28,4 @@ We run the Big Code project through the following tools and platforms:
 - We host all model weights and datasets on HuggingFace
 
 ## Bi-yearly goals
-Big Code runs on a bi-yearly cadence. Each half year, the core group members discuss and set milestones for the next six months of work. You can find the objectives for the first iteration here. 
+Big Code runs on a bi-yearly cadence. Each half year, the core members discuss and set milestones for the next six months of work. You can find the objectives for the first iteration here. 
