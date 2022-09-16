@@ -17,6 +17,6 @@ We are excited to invite AI practitioners from diverse backgrounds to join the B
 1. have a professional research background and 
 2. are able to commit time to the project.  
 
-In general, we expect applicants to be affiliated with an accredited research organization (either in academia or industry) and work on the technical/ethical/legal aspects of LLMs for code. 
+In general, we expect applicants to be affiliated with a research organization (either in academia or industry) and work on the technical/ethical/legal aspects of LLMs for coding applications. 
 
 Please apply to the Big Code project [here!](TODO) 
