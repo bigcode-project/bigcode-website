@@ -21,11 +21,11 @@ The Big Code organisation is comprised of **core members** and **contributors**.
 
 ## Operations
 We run the Big Code project through the following tools and platforms:
-- We actively manage the project through a Github project board
-- We use Slack for all internal communication
-- We train models with Megatron-LM 
-- We host all code repositories on Github
-- We host all model weights and datasets on HuggingFace
+- We actively manage the project through a [Github project board](https://github.com/bigcode-project)
+- We use [Slack](https://bigcode-workspace.slack.com) for all internal communication
+- We train models with a clone of [Megatron-LM](https://github.com/NVIDIA/Megatron-LM)
+- We host all code repositories on [Github](https://github.com/bigcode-project)
+- We host all model weights and datasets on [HuggingFace](https://huggingface.co/BigCode)
 
 ## Bi-yearly goals
 Big Code runs on a bi-yearly cadence. Each half year, the core members discuss and set milestones for the next six months of work. You can find the objectives for the first iteration here. 
