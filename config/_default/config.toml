@@ -1,4 +1,4 @@
-baseurl = "https://voluble-eclair-6a2901.netlify.app/"
+baseurl = "https://bigcode-project.org"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
