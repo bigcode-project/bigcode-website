@@ -16,10 +16,10 @@ Large Language Models (LLMs) are fast becoming an essential tool for all fields 
 
 Given the increasing impact of LLMs on society, we believe it is vital to develop these powerful tools with responsible AI principles. Specifically, Big Code values (1) inclusivity by welcoming contributions from all AI researchers and (2) openness and transparency regarding the LLM development process, including discussions about data sources, data rights, and their legal and ethical concerns. To foster open collaboration across institutes and corporations, we've put significant effort into establishing a legal framework for the project. See [how we manage intellectual property]({{< relref "docs/about/ip.md" >}}). 
 
-Big Code is inspired by the [Big Science project](https://bigscience.huggingface.co/), an open scientific collaboration which culminated in July 2022 with the release of the [World’s Largest Open Multilingual Language Model](https://huggingface.co/bigscience/bloom). One key difference is that Big Code is focused on developing LLMs for coding applications. Code LLMs enable the completion and synthesis of code, both from other code and natural language descriptions, and can work across a wide range of domains, tasks, and programming languages. 
-
-
-
+Big Code is inspired by the [Big Science project](https://bigscience.huggingface.co/), an open scientific collaboration which culminated in July 2022 with the release of the [World’s Largest Open Multilingual Language Model](https://huggingface.co/bigscience/bloom). One key difference is that Big Code is focused on developing state-of-the-art LLMs for coding applications. Code LLMs enable the completion and synthesis of code, both from other code and natural language descriptions, and can work across a wide range of domains, tasks, and programming languages. The main topics of interest for Big Code are:
+- Developing a representative evaluation suite for code LLMs, covering a diverse set of tasks and programming languages
+- Responsible development and governance of datasets for code LLMs
+- Developing methods for faster training and inference of LLMs
 
 
 
