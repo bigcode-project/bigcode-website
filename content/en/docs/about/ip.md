@@ -13,7 +13,7 @@ weight: 120
 toc: true
 ---
 
-We believe the soul of Big Code to be clear and transparent communication striving towards open collaboration. The project therefore runs under the following set of open licenses. 
+We believe the soul of Big Code to be clear and transparent communication striving towards open collaboration. The project therefore runs under the following set of open and permissive licenses. 
 
 **Code**. All inbound code contributions (e.g. for model training or dataset analysis) must be made under an [Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0). All outbound code will be made available under the Apache 2.0 license. The Apache 2.0 license is the most commonly used open source license due to its permissive character and clarity regarding copyright and patents. 
 
@@ -26,7 +26,7 @@ We believe the soul of Big Code to be clear and transparent communication strivi
 ## Contributions under a different license
 We are flexible and understand that each individual contributor or contributing party might have its own interests besides the collective Big Code effort. In case you do not feel comfortable licensing some of your contributions to the project under the Apache 2.0, please get in touch with us. We will see how to work around and make everyone comfortable. Note that for contributions with a non-permissive license, our general policy is to put them in a separate Github repository living outside the Big Code organisation. 
 
-## No CLA or DCO
-Unlike open-source projects such as [PyTorch](https://github.com/pytorch/pytorch/) and [TensorFlow](https://github.com/tensorflow/tensorflow), Big Code does not make use of a [Contributor License Agreement](https://www.apache.org/licenses/contributor-agreements.html) (CLA). We believe the main role of a CLA is to centralize the IP licensing management under a single legal entity. Since Big Code is not a legal entity, we do not use a CLA. This means that if, for example, Big Code wants to change the license of the project, we will need to reach consensus among all contributors. We also opted not to use a [Developer Certificate of Origin](https://developercertificate.org/).    
+<!-- ## No CLA or DCO
+Unlike open-source projects such as [PyTorch](https://github.com/pytorch/pytorch/) and [TensorFlow](https://github.com/tensorflow/tensorflow), Big Code does not make use of a [Contributor License Agreement](https://www.apache.org/licenses/contributor-agreements.html) (CLA). We believe the main role of a CLA is to centralize the IP licensing management under a single legal entity. Since Big Code is not a legal entity, we do not use a CLA. This means that if, for example, Big Code wants to change the license of the project, we will need to reach consensus among all contributors. We also opted not to use a [Developer Certificate of Origin](https://developercertificate.org/).     -->
 
 If you have any further questions regarding IP, please reach out at contact@bigcode-project.org. 
