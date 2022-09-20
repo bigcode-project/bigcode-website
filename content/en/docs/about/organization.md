@@ -17,7 +17,7 @@ toc: true
 Big Code is led by [ServiceNow Research](https://servicenow.com/research) and [HuggingFace](https://huggingface.co). Both organizations commit research and engineering time to ensure that the collaboration runs smoothly and makes progress towards the pre-set goals. ServiceNow Research also makes their compute cluster available for large-scale training. 
 
 ## Members
-The Big Code organisation is comprised of **core members** and **contributors**. Core members dedicate a significant portion of their working time to the Big Code project whereas contributors advise on specific aspects of the project or take on smaller tasks. Contributors can be promoted to core members through a majority vote among the core contributors. 
+We will shortly provide more details on the governance structure of the project. For now, the organization is comprised of **core members** and **contributors**. Core members dedicate a significant portion of their working time to the Big Code project whereas contributors advise on specific aspects of the project or take on smaller tasks. 
 
 ## Operations
 We run the Big Code project through the following tools and platforms:
