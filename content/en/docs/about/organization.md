@@ -27,5 +27,5 @@ We run the Big Code project through the following tools and platforms:
 - We host all code repositories on [Github](https://github.com/bigcode-project)
 - We host all model weights and datasets on [HuggingFace](https://huggingface.co/BigCode)
 
-## Bi-yearly goals
-Big Code runs on a bi-yearly cadence. Each half year, the core members discuss and set milestones for the next six months of work. You can find the objectives for the first iteration here. 
+<!-- ## Bi-yearly goals
+Big Code runs on a bi-yearly cadence. Each half year, the core members discuss and set milestones for the next six months of work. You can find the objectives for the first iteration here.  -->
