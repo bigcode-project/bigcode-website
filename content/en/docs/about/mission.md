@@ -14,14 +14,14 @@ toc: true
 ---
 Large Language Models (LLMs) are fast becoming an essential tool for all fields of AI research. One striking feature of these large pre-trained models is that they can be adapted to a wide variety of language tasks, often with very little in-domain data. 
 
-BigCode is focused on developing state-of-the-art LLMs for coding applications. Such code LLMs enable the completion and synthesis of code, both from other code and natural language descriptions, and can work across a wide range of domains, tasks, and programming languages.  
+BigCode is focused on developing state-of-the-art LLMs for code. Code LLMs enable the completion and synthesis of code, both from other code snippets and natural language descriptions, and work across a wide range of domains, tasks, and programming languages. These models can, for example, assist professional and citizen developers with coding new applications.  
 
-The project is inspired by [BigScience](https://bigscience.huggingface.co/), an open scientific collaboration which culminated in July 2022 with the release of the [World’s Largest Open Multilingual Language Model](https://huggingface.co/bigscience/bloom). The main topics of interest of BigCode are:
+BigCode [invites AI researchers](({{< relref "docs/about/join.md" >}})) to work on the following topics:
 - Developing a representative evaluation suite for code LLMs, covering a diverse set of tasks and programming languages
-- Responsible development and governance of datasets for code LLMs
+- Responsible data governance and development for code LLMs
 - Developing methods for faster training and inference of LLMs
 
-BigCode strives to follow, as well as establish, new responsible AI practices to train and share large language models. We welcome contributions from all AI researchers and strive for openness and transparency in the LLM development process. To foster open collaboration across institutes and corporations, we've put significant effort into establishing a legal framework for the project. See [how we manage intellectual property]({{< relref "docs/about/ip.md" >}}). 
+The project is inspired by [BigScience](https://bigscience.huggingface.co/), an open scientific collaboration which culminated in July 2022 with the release of the [World’s Largest Open Multilingual Language Model](https://huggingface.co/bigscience/bloom). BigCode aims to follow, as well as establish, new responsible AI practices to train and share large language models. We welcome contributions from all AI researchers and strive for openness and transparency in the LLM development process. To foster open collaboration across institutes and corporations, we've established a legal framework for the project. See [how we manage intellectual property]({{< relref "docs/about/ip.md" >}}). 
 
 
 
