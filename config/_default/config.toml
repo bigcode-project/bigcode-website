@@ -1,4 +1,4 @@
-baseurl = "https://bigcode-project.org"
+baseurl = "https://www.bigcode-project.org"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
