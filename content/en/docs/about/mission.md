@@ -21,7 +21,7 @@ BigCode [invites AI researchers]({{< relref "docs/about/join.md" >}}) to collabo
 - Responsible data governance and development for code LLMs
 - Faster training and inference methods for LLMs
 
-The project is inspired by [BigScience](https://bigscience.huggingface.co/), an open scientific collaboration which culminated in July 2022 with the release of the [World’s Largest Open Multilingual Language Model](https://huggingface.co/bigscience/bloom). BigCode aims to follow, as well as establish, new responsible AI practices to train and share large language models. We welcome contributions from all AI researchers and strive for openness and transparency in the LLM development process. To foster open collaboration across institutes and corporations, we've established a legal framework for the project. See [how we manage intellectual property]({{< relref "docs/about/ip.md" >}}). 
+The project is inspired by [BigScience](https://bigscience.huggingface.co/), an open scientific collaboration which culminated in July 2022 with the release of the [World’s Largest Open Multilingual Language Model](https://huggingface.co/bigscience/bloom). BigCode aims to follow, as well as establish, new responsible AI practices to train and share large language models. We welcome contributions from AI researchers and strive for openness and transparency in the LLM development process. To foster open collaboration across institutes and corporations, we've established a legal framework for the project. See [how we manage intellectual property]({{< relref "docs/about/ip.md" >}}). 
 
 
 
