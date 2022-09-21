@@ -10,7 +10,7 @@ description = ""
 # docsVersion = "0.3"
 
 ## Open Graph
-images = ["doks.png"]
+images = ["website-preview.png"]
 ogLocale = "en_US"
 domainTLD = "doks.netlify.app"
 titleHome = "Doks Theme"
@@ -28,10 +28,10 @@ schemaAuthorTwitter = "https://twitter.com/bigcode-collaboration"
 schemaAuthorLinkedIn = ""
 schemaAuthorGitHub = "https://github.com/bigcode-collaboration"
 schemaLocale = "en-US"
-schemaLogo = "logo-doks.png"
+schemaLogo = "logo.png"
 schemaLogoWidth = 512
 schemaLogoHeight = 512
-schemaImage = "doks.png"
+schemaImage = "website-preview.png"
 schemaImageWidth = 1280
 schemaImageHeight = 640
 schemaTwitter = "https://twitter.com/getdoks"
