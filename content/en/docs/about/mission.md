@@ -16,7 +16,7 @@ Large Language Models (LLMs) are fast becoming an essential tool for all fields 
 
 BigCode is focused on developing state-of-the-art LLMs for code. Code LLMs enable the completion and synthesis of code, both from other code snippets and natural language descriptions, and work across a wide range of domains, tasks, and programming languages. These models can, for example, assist professional and citizen developers with coding new applications.  
 
-BigCode [invites AI researchers](({{< relref "docs/about/join.md" >}})) to work on the following topics:
+BigCode [invites AI researchers]({{< relref "docs/about/join.md" >}}) to collaborate on the following topics:
 - Developing a representative evaluation suite for code LLMs, covering a diverse set of tasks and programming languages
 - Responsible data governance and development for code LLMs
 - Developing methods for faster training and inference of LLMs
