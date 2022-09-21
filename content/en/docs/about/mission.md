@@ -16,7 +16,7 @@ Large Language Models (LLMs) are fast becoming an essential tool for all fields 
 
 Big Code is focused on developing state-of-the-art LLMs for coding applications. Such code LLMs enable the completion and synthesis of code, both from other code and natural language descriptions, and can work across a wide range of domains, tasks, and programming languages.  
 
-The project inspired by the [Big Science](https://bigscience.huggingface.co/), an open scientific collaboration which culminated in July 2022 with the release of the [World’s Largest Open Multilingual Language Model](https://huggingface.co/bigscience/bloom). The main topics of interest of Big Code are:
+The project is inspired by [Big Science](https://bigscience.huggingface.co/), an open scientific collaboration which culminated in July 2022 with the release of the [World’s Largest Open Multilingual Language Model](https://huggingface.co/bigscience/bloom). The main topics of interest of Big Code are:
 - Developing a representative evaluation suite for code LLMs, covering a diverse set of tasks and programming languages
 - Responsible development and governance of datasets for code LLMs
 - Developing methods for faster training and inference of LLMs
