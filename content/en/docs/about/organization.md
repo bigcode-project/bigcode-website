@@ -14,13 +14,13 @@ toc: true
 ---
 
 ## Sponsors
-Big Code is led by [ServiceNow Research](https://servicenow.com/research) and [HuggingFace](https://huggingface.co). Both organizations commit research and engineering time to ensure that the collaboration runs smoothly and makes progress towards the pre-set goals. ServiceNow Research also makes their compute cluster available for large-scale training. 
+BigCode is led by [ServiceNow Research](https://servicenow.com/research) and [HuggingFace](https://huggingface.co). Both organizations commit research and engineering time to ensure that the collaboration runs smoothly and makes progress towards the pre-set goals. ServiceNow Research also makes their compute cluster available for large-scale training. 
 
 ## Members
-We will shortly provide more details on the governance structure of the project. For now, the organization is led by **core members** of ServiceNow and HuggingFace while we are onboarding **contributors**. Core members dedicate a significant portion of their working time to the Big Code project whereas contributors advise on specific aspects of the project or take on smaller tasks. 
+We will shortly provide more details on the governance structure of the project. For now, the organization is led by **core members** of ServiceNow and HuggingFace while we are onboarding **contributors**. Core members dedicate a significant portion of their working time to the BigCode project whereas contributors advise on specific aspects of the project or take on smaller tasks. 
 
 ## Operations
-We run the Big Code project through the following tools and platforms:
+We run the BigCode project through the following tools and platforms:
 - We actively manage the project through a [Github project board](https://github.com/orgs/bigcode-project/projects/1/)
 - We use [Slack](https://bigcode-workspace.slack.com) for all internal communication (apply [here](https://forms.gle/Het4wd5WNoupBJHJA) to join!)
 - We train models with a clone of [Megatron-LM](https://github.com/NVIDIA/Megatron-LM)

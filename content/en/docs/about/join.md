@@ -13,10 +13,10 @@ weight: 630
 toc: true
 ---
 
-We are excited to invite AI practitioners from diverse backgrounds to join the Big Code project! Note that Big Code is a *research collaboration* and is open to participants who 
+We are excited to invite AI practitioners from diverse backgrounds to join the BigCode project! Note that BigCode is a *research collaboration* and is open to participants who 
 1. have a professional research background and 
 2. are able to commit time to the project.  
 
 In general, we expect applicants to be affiliated with a research organization (either in academia or industry) and work on the technical/ethical/legal aspects of LLMs for coding applications. 
 
-You can [apply here](https://forms.gle/Het4wd5WNoupBJHJA) to the Big Code project!
+You can [apply here](https://forms.gle/Het4wd5WNoupBJHJA) to the BigCode project!
