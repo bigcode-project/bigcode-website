@@ -6,8 +6,9 @@ date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
 draft: false
 images: []
+menu: []
 weight: 210
-toc: true
+toc: false
 ---
 
 As part of the BigCode project, we will release The Stack, a 3.1 TB dataset of permissively licensed source code in 30 programming languages. Although we have filtered the data for permissively licensed source code (i.e., with minimal restrictions on how the software can be copied, modified, and redistributed), we can imagine that some developers do not wish their code to be used for pre-training LLMs and, therefore, start experimenting with giving code creators the possibility to remove data from the dataset.  
