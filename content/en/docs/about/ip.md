@@ -28,7 +28,7 @@ As part of the BigCode project, we released The Stack, a 3.1 TB dataset of permi
 
 We are still experimenting how to process such removal requests. We currently ask users to provide their Github username and email address associated with git commits, and subsequently remove the following data:
 * All repositories under the provided Github account
-* Public repositories that the provided email-address or Github handle pushed to. We remove all files that were affected by the commits of the push requests.  Note that we rely on GHArchive for such push requests and we can not garantuee that these event archives are complete. 
+* Public repositories that the provided email-address or Github handle pushed to. We remove all files that were affected by the commits of the push events.  Note that we rely on GHArchive for such push events and we can not garantuee that these event archives are complete. 
   
 
 We ask developers to fill [**this form**](https://forms.gle/6o2A6h3YcAuGYxtm7) before January 1st, 2023 so that we have time to process the deletion requests before we start training a large model on The Stack. By adding your user details in this form we will also exclude the associated code in future releases of The Stack. 
