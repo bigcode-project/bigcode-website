@@ -13,7 +13,7 @@ weight: 210
 toc: true
 ---
 
-The Stack contains over 3TB of permissively-licensed source code files covering 30 programming languages crawled from GitHub. The dataset was created as part of the BigCode Project, an open scientific collaboration working on the responsible development of Large Language Models for code (code LLMs). The Stack serves as a pre-training dataset for creating code LLMs, i.e., code-generating AI systems which enable the completion and synthesis of code, both from other code as well as from natural language descriptions. See the [supporting datacard](https://huggingface.co/datasets/bigcode/the-stack) for more information. 
+The Stack contains over 3TB of permissively-licensed source code files covering 30 programming languages crawled from GitHub. The dataset was created as part of the BigCode Project, an open scientific collaboration working on the responsible development of Large Language Models for Code (Code LLMs). The Stack serves as a pre-training dataset for code LLMs, i.e., code-generating AI systems which enable the completion and synthesis of code, both from other code as well as from natural language descriptions. See the [supporting datacard](https://huggingface.co/datasets/bigcode/the-stack) for more information about The Stack. 
 
 ![Image](/the-stack-infographic.png "The Stack Infographic")
 
