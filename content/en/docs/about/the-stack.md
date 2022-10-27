@@ -15,7 +15,7 @@ toc: true
 
 As part of the BigCode project, we are releasing and maintaining The Stack, a 3.1 TB dataset of permissively licensed source code in 30 programming languages. One of our goals in this project is to give the people who wrote this source code a choice as to whether or not it should be used to develop and evaluate LLMs, as we acknowledge that not all developers may wish to have their data used for that purpose.
 
-Our first step to that end was to select code whose original license was compatible with training an LLM, specifically, open-source licenses without copyleft (See the [list of licenses below]({{< relref "#What is the license for The Stack dataset?" >}}). In addition, we are giving developers the ability to have their code removed from the dataset upon request. The process for submitting and enacting removal requests will keep evolving throughout the project as we receive feedback and build up more data governance tools. The following FAQ presents the current state of this process, as well as the planned next steps. 
+Our first step to that end was to select code whose original license was compatible with training an LLM, specifically, open-source licenses without copyleft. You can find the [selected licenses below]({{< relref "#licenses" >}}). In addition, we are giving developers the ability to have their code removed from the dataset upon request. The process for submitting and enacting removal requests will keep evolving throughout the project as we receive feedback and build up more data governance tools. The following FAQ presents the current state of this process, as well as the planned next steps. 
 
 ### How do I know if my data is in The Stack?
 We are working on developing tools to help users visualize the status of their data in The Stack, including checking whether specific data is present in the latest version and whether it is already flagged for removal.
@@ -32,8 +32,10 @@ The removal request form will be used to validate removal requests and remove ap
 ### What happens to my data once I’ve requested its removal?
 For as long as we are maintaining The Stack dataset, we will provide regular updates to the dataset to remove data that has been flagged since the last version. The current plan is to update the dataset every 3 months, although the schedule may change based on the volume of requests received. If we are not in a position to continue maintaining the dataset in the future, we plan to stop distributing it in its current format and update its terms of use to limit its range of applications further, including for training new LLMs. Finally, we [require](TODO) that people who download the dataset agree to use the most recent allowed version in order to incorporate the removal requests. 
 
-### What is the license for The Stack dataset?
+### What is the license for The Stack dataset? {#licenses}
 The Stack is a collection of source code from repositories with various licenses. Any use of code gathered in The Stack must abide by the code’s original license terms, including attribution clauses when relevant. To facilitate this, The Stack contains provenance information, including the source of the code and its license, for each data point.
+
+The Stack’s dataset was filtered to include only permissive licenses—i.e., those with minimal restrictions on how the software can be copied, modified, and redistributed e.g., MIT and Apache 2.0. Copyleft licenses such as GPL are not included as they have the requirement that the same rights be preserved in derivative works. Some have argued that a model trained with copyleft licensed data is considered derivative work.
 
 The list of [SPDX license identifiers](https://spdx.org/licenses/) which we labeled as permissive and are included in dataset are:
 - MIT-0
