@@ -13,7 +13,7 @@ weight: 210
 toc: true
 ---
 
-As part of the BigCode project, we are releasing and maintaining The Stack, a 3.1 TB dataset of permissively licensed source code in 30 programming languages. One of our goals in this project is to give the people who wrote this source code a choice as to whether or not it should be used to develop and evaluate LLMs, as we acknowledge that not all developers may wish to have their data used for that purpose.
+As part of the BigCode project, we are [releasing and maintaining The Stack](https://huggingface.co/datasets/bigcode/the-stack), a 3.1 TB dataset of permissively licensed source code in 30 programming languages. One of our goals in this project is to give the people who wrote this source code a choice as to whether or not it should be used to develop and evaluate LLMs, as we acknowledge that not all developers may wish to have their data used for that purpose.
 
 Our first step to that end was to select code whose original license was compatible with training an LLM, specifically, open-source licenses without copyleft. You can find the [selected licenses below]({{< relref "#licenses" >}}). In addition, we are giving developers the ability to have their code removed from the dataset upon request. The process for submitting and enacting removal requests will keep evolving throughout the project as we receive feedback and build up more data governance tools. The following FAQ presents the current state of this process, as well as the planned next steps. 
 
