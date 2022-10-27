@@ -15,7 +15,7 @@ toc: true
 
 As part of the BigCode project, we are [releasing and maintaining The Stack](https://huggingface.co/datasets/bigcode/the-stack), a 3.1 TB dataset of permissively licensed source code in 30 programming languages. One of our goals in this project is to give the people who wrote this source code a choice as to whether or not it should be used to develop and evaluate LLMs, as we acknowledge that not all developers may wish to have their data used for that purpose.
 
-Our first step to that end was to select code whose original license was compatible with training an LLM, specifically, open-source licenses without copyleft. You can find the list of [selected licenses below]({{< relref "#licenses" >}}). In addition, we are giving developers the ability to have their code removed from the dataset upon request. The process for submitting and enacting removal requests will keep evolving throughout the project as we receive feedback and build up more data governance tools. The following FAQ presents the current state of this process, as well as the planned next steps. 
+Our first step to that end was to select code whose original license was compatible with training an LLM, specifically, open-source licenses without copyleft. You can find the list of [selected open-source licenses below]({{< relref "#licenses" >}}). In addition, we are giving developers the ability to have their code removed from the dataset upon request. The process for submitting and enacting removal requests will keep evolving throughout the project as we receive feedback and build up more data governance tools. The following FAQ presents the current state of this process, as well as the planned next steps. 
 
 ### How do I know if my data is in The Stack?
 We are working on tools to help users visualize the status of their data in The Stack, including checking whether specific data is present in the latest version and whether it is already flagged for removal.
@@ -37,7 +37,7 @@ The Stack is a collection of source code from repositories with various licenses
 
 The Stack was filtered to include only permissive licenses—i.e., those with minimal restrictions on how the software can be copied, modified, and redistributed e.g., MIT and Apache 2.0. Copyleft licenses such as GPL are not included as they have the requirement that the same rights be preserved in derivative works. [Some have argued](https://sfconservancy.org/blog/2022/feb/03/github-copilot-copyleft-gpl/) that a model trained with copyleft licensed data is considered derivative work.
 
-The list of [SPDX license identifiers](https://spdx.org/licenses/) which we labeled as permissive and are included in dataset are:
+The list of [SPDX license identifiers](https://spdx.org/licenses/) included in dataset are:
 - MIT-0
 - MIT
 - MIT-feh
