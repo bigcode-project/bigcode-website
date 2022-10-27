@@ -30,7 +30,7 @@ Currently, you can request that we remove any repository for which you have an A
 The removal request form will be used to validate removal requests and remove appropriate data. Validated requests and associated code pointers will also be stored in order to ensure that the code does not appear in future versions of The Stack.
 
 ### What happens to my data once I’ve requested its removal?
-For as long as we are maintaining The Stack dataset, we will provide regular updates to the dataset to remove data that has been flagged since the last version. The current plan is to update the dataset every 3 months, although the schedule may change based on the volume of requests received. If we are not in a position to continue maintaining the dataset in the future, we plan to stop distributing it in its current format and update its terms of use to limit its range of applications further, including for training new LLMs. Finally, we [require](TODO) that people who download the dataset agree to use the most recent allowed version in order to incorporate the removal requests. 
+For as long as we are maintaining The Stack dataset, we will provide regular updates to the dataset to remove data that has been flagged since the last version. The current plan is to update the dataset every 3 months, although the schedule may change based on the volume of requests received. If we are not in a position to continue maintaining the dataset, we plan to stop distributing it in its current format and update its terms of use to limit its range of applications further, including for training new LLMs. Finally, we [require](https://huggingface.co/datasets/bigcode/the-stack#terms-of-use-for-the-stack) that people who download the dataset agree to use the most recent allowed version in order to incorporate the removal requests. 
 
 ### What is the license for The Stack dataset? {#licenses}
 The Stack is a collection of source code from repositories with various licenses. Any use of code gathered in The Stack must abide by the code’s original license terms, including attribution clauses when relevant. To facilitate this, The Stack contains provenance information, including the source of the code and its license, for each data point.
@@ -57,5 +57,7 @@ The list of [SPDX license identifiers](https://spdx.org/licenses/) which we labe
 - ECL-2.0
 - SHL-0.51
 - MPL-2.0-no-copyleft-exception
+
+You can find the license distribution in [Table 2 of the supporting research paper](https://drive.google.com/file/d/17J-0KXTDzY9Esp-JqXYHIcy--i_7G5Bb/view). MIT and Apache 2.0 make up a large part  of the released dataset. 
 
 It was recently brought to our attention that licenses such as MPL, LGPL, and EPL were erroneously labeled as permissive and were included in the dataset when they are in fact [weak copyleft licenses](https://blueoakcouncil.org/copyleft). The dataset working group will remove these weak copyleft license files from The Stack and release an updated version in the coming weeks. The weak copyleft-licensed data that will be removed is only a small part of the overall dataset, hence we expect the experimental findings of [the paper](https://drive.google.com/file/d/17J-0KXTDzY9Esp-JqXYHIcy--i_7G5Bb/view) to remain unchanged.
