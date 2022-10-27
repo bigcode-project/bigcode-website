@@ -35,7 +35,7 @@ For as long as we are maintaining The Stack dataset, we will provide regular upd
 ### What is the license for The Stack dataset? {#licenses}
 The Stack is a collection of source code from repositories with various licenses. Any use of code gathered in The Stack must abide by the code’s original license terms, including attribution clauses when relevant. To facilitate this, The Stack contains provenance information, including the source of the code and its license, for each data point.
 
-The Stack’s dataset was filtered to include only permissive licenses—i.e., those with minimal restrictions on how the software can be copied, modified, and redistributed e.g., MIT and Apache 2.0. Copyleft licenses such as GPL are not included as they have the requirement that the same rights be preserved in derivative works. Some have argued that a model trained with copyleft licensed data is considered derivative work.
+The Stack was filtered to include only permissive licenses—i.e., those with minimal restrictions on how the software can be copied, modified, and redistributed e.g., MIT and Apache 2.0. Copyleft licenses such as GPL are not included as they have the requirement that the same rights be preserved in derivative works. [Some have argued](https://sfconservancy.org/blog/2022/feb/03/github-copilot-copyleft-gpl/) that a model trained with copyleft licensed data is considered derivative work.
 
 The list of [SPDX license identifiers](https://spdx.org/licenses/) which we labeled as permissive and are included in dataset are:
 - MIT-0
