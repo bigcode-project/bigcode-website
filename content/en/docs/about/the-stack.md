@@ -58,6 +58,6 @@ The list of [SPDX license identifiers](https://spdx.org/licenses/) which we labe
 - SHL-0.51
 - MPL-2.0-no-copyleft-exception
 
-You can find the license distribution in [Table 2 of the supporting research paper](https://drive.google.com/file/d/17J-0KXTDzY9Esp-JqXYHIcy--i_7G5Bb/view). MIT and Apache 2.0 make up a large part  of the released dataset. 
+You can find the license distribution in [Table 2 of the supporting research paper](https://drive.google.com/file/d/17J-0KXTDzY9Esp-JqXYHIcy--i_7G5Bb/view). MIT and Apache 2.0 make up the majority of the released dataset. 
 
 It was recently brought to our attention that licenses such as MPL, LGPL, and EPL were erroneously labeled as permissive and were included in the dataset when they are in fact [weak copyleft licenses](https://blueoakcouncil.org/copyleft). The dataset working group will remove these weak copyleft license files from The Stack and release an updated version in the coming weeks. The weak copyleft-licensed data that will be removed is only a small part of the overall dataset, hence we expect the experimental findings of [the paper](https://drive.google.com/file/d/17J-0KXTDzY9Esp-JqXYHIcy--i_7G5Bb/view) to remain unchanged.
