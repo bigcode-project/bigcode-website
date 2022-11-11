@@ -13,12 +13,12 @@ weight: 210
 toc: true
 ---
 
-As part of the BigCode project, we are [releasing and maintaining The Stack](https://huggingface.co/datasets/bigcode/the-stack), a 3.1 TB dataset of permissively licensed source code in 30 programming languages. One of our goals in this project is to give the people who wrote this source code a choice as to whether or not it should be used to develop and evaluate LLMs, as we acknowledge that not all developers may wish to have their data used for that purpose.
+As part of the BigCode project, we released and will maintain [The Stack](https://huggingface.co/datasets/bigcode/the-stack), a 3.1 TB dataset of permissively licensed source code in 30 programming languages. One of our goals in this project is to give the people agency over their source code by letting them decide whether or not it should be used to develop and evaluate LLMs, as we acknowledge that not all developers may wish to have their data used for that purpose.
 
 Our first step to that end was to select code whose original license was compatible with training an LLM, specifically, open-source licenses without copyleft. You can find the list of [selected open-source licenses below]({{< relref "#licenses" >}}). In addition, we are giving developers the ability to have their code removed from the dataset upon request. The process for submitting and enacting removal requests will keep evolving throughout the project as we receive feedback and build up more data governance tools. The following FAQ presents the current state of this process, as well as the planned next steps. 
 
 ### How do I know if my data is in The Stack?
-We are working on tools to help users visualize the status of their data in The Stack, including checking whether specific data is present in the latest version and whether it is already flagged for removal.
+We have a developed a tool to help users understand whether their data is in The Stack. Check out [Am I in The Stack?](https://huggingface.co/spaces/bigcode/in-the-stack). 
 
 ### How can I request that my data be removed from The Stack?
 In order to request that data from your repositories be removed from The Stack, we ask that you first fill out the [following form](https://forms.gle/6o2A6h3YcAuGYxtm7) with your GitHub username and the email address associated with your git activity. After submitting the form, we will invite you to a private repository on the BigCode organization and ask you to open an issue with the topic “remove my Github repositories from The Stack”. This will verify your Github username and we will mark all public repositories under your username for removal in the next dataset release cycle. The verification process is manual at the moment but we are looking into ways to fully automate it. 
