@@ -13,7 +13,7 @@ weight: 210
 toc: true
 ---
 
-As part of the BigCode project, we released and will maintain [The Stack](https://huggingface.co/datasets/bigcode/the-stack), a 3.1 TB dataset of permissively licensed source code in 30 programming languages. One of our goals in this project is to give people agency over their source code by letting them decide whether or not it should be used to develop and evaluate LLMs, as we acknowledge that not all developers may wish to have their data used for that purpose.
+As part of the BigCode project, we released and will maintain [The Stack v1.1](https://huggingface.co/datasets/bigcode/the-stack), a 6.4 TB dataset of permissively licensed source code in 358 programming languages. One of our goals in this project is to give people agency over their source code by letting them decide whether or not it should be used to develop and evaluate LLMs, as we acknowledge that not all developers may wish to have their data used for that purpose.
 
 Our first step to that end was to select source code with permissive licenses, i.e. those with minimal restrictions on how the software can be copied, modified and redistributed. You can find the list of [selected open-source licenses below]({{< relref "#licenses" >}}). In addition, we are giving developers the ability to have their code removed from the dataset upon request. The process for submitting and enacting removal requests will keep evolving throughout the project as we receive feedback and build up more data governance tools. The following FAQ presents the current state of this process, as well as the planned next steps. 
 
@@ -37,9 +37,9 @@ For as long as we are maintaining The Stack dataset, we will provide regular upd
 ### What is the license for The Stack dataset? {#licenses}
 The Stack is a collection of source code from repositories with various licenses. Any use of code gathered in The Stack must abide by the code’s original license terms, including attribution clauses when relevant. To facilitate this, The Stack contains provenance information, including the source of the code and its license, for each data point.
 
-The Stack was filtered to include only permissive licenses—i.e., those with minimal restrictions on how the software can be copied, modified, and redistributed e.g., MIT and Apache 2.0. Copyleft licenses such as GPL are not included as they have the requirement that the same rights be preserved in derivative works. [Some have argued](https://sfconservancy.org/blog/2022/feb/03/github-copilot-copyleft-gpl/) that a model trained with copyleft licensed data is considered derivative work.
+The Stack was filtered to include only permissive licenses—i.e., those with minimal restrictions on how the software can be copied, modified, and redistributed e.g., MIT and Apache 2.0. Note that we intentionally exclude copyleft licenses like GPL, as this community has [strongly expressed their concern](ttps://sfconservancy.org/blog/2022/feb/03/github-copilot-copyleft-gpl/) that machine learning models and inferred outputs violate the terms and conditions of the licenses.
 
-The list of [SPDX license identifiers](https://spdx.org/licenses/) included in dataset are:
+For The Stack v1.0, we included the following list of [SPDX license identifiers](https://spdx.org/licenses/) in the dataset:
 - MIT-0
 - MIT
 - MIT-feh
@@ -62,4 +62,4 @@ The list of [SPDX license identifiers](https://spdx.org/licenses/) included in d
 
 You can find the license distribution in [Table 2 of the supporting research paper](https://drive.google.com/file/d/17J-0KXTDzY9Esp-JqXYHIcy--i_7G5Bb/view). MIT and Apache 2.0 make up the majority of the released dataset. 
 
-**IMPORTANT UPDATE 27/10** It was recently brought to our attention that licenses such as MPL, LGPL, and EPL were erroneously labeled as permissive when they are in fact [weak copyleft licenses](https://blueoakcouncil.org/copyleft). We will remove these weak copyleft license files from The Stack and release an updated version in the coming weeks. The weak copyleft-licensed data is only a small part of the overall dataset (below 0.5% of the Python subset), hence we expect the experimental findings of [the paper](https://drive.google.com/file/d/17J-0KXTDzY9Esp-JqXYHIcy--i_7G5Bb/view) to remain unchanged.
+It was later brought to our attention that licenses such as MPL, LGPL, and EPL were erroneously labeled as permissive when they are in fact [weak copyleft licenses](https://blueoakcouncil.org/copyleft). For the Stack v1.1, we have removed these weak copyleft license files from the dataset. The full list of 193 licenses can be found [here](https://huggingface.co/datasets/bigcode/the-stack/blob/main/licenses.json). 
