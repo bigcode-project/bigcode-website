@@ -23,7 +23,7 @@ BigCode [invites AI researchers]({{< relref "docs/about/join.md" >}}) to work to
 
 The BigCode project is conducted in the spirit of Open Science.  Datasets, models, and experiments are developed through open collaboration and [released with permissive licenses back to the community]({{< relref "docs/about/ip.md" >}}). While the project has corporate support from ServiceNow and HuggingFace e.g. for hosting models and datasets, and for training compute; all technical governance takes place within working groups and task forces across the community. 
 
-As code LLMs are developed with data from the open-source community, we believe open and transparent governance can help to ensure that these models are benefiting the larger developer community. We are working on tools [to give code creators agency over whether their source code is included in the training data](https://huggingface.co/spaces/bigcode/in-the-stack), and give attribution to developers when models output near-copies of the training data. 
+As code LLMs are developed with data from the open-source community, we believe open governance can help to ensure that these models are benefiting the larger developer community. We are working on tools [to give code creators agency over whether their source code is included in the training data](https://huggingface.co/spaces/bigcode/in-the-stack), and give attribution to developers when models output near-copies of the training data. 
 
 
 <!-- 
