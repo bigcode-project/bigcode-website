@@ -9,7 +9,7 @@ weight: 50
 images: []
 categories: []
 tags: ["OpenRAIL license"]
-contributors: ["Carlos Muñoz Ferrandis"]
+contributors: ["Henk Verlinde"]
 pinned: false
 homepage: false
 ---
