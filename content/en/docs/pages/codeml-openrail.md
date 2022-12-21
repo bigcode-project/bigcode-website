@@ -62,11 +62,10 @@ According to restriction (f) you cannot use the model to generate code or distri
 ## What has been modified from the BigScience OpenRAIL-M license?
 There are 4 modifications:
 
-The Preamble has been adapted to code generation models.
+- The Preamble has been adapted to code generation models.
 - Complementary material (source code) is not licensed under this license but separately under an Apache 2.0 license.
 - Clause 7 of the license no longer requires users to undertake reasonable efforts to use the last updated version of the Model, as is the case in the BigScience OpenRAIL-M license. 
-- Attachment A includes a new restriction:
-  Restriction (c) forbidding the use of the Model to generate and/or disseminate malware. We understand that “malware”, according to the NIST definition, already includes the intent of harm. For example, using a dataset composed of  source code, signature, or Indicators of Compromise (IOC) that are known to be malicious and finetune a BigCode model with it in order to enable the automated generation and/or distribution of malware or related code.
+- Attachment A includes a new restriction: Restriction (c) forbidding the use of the Model to generate and/or disseminate malware. We understand that “malware”, according to the NIST definition, already includes the intent of harm. For example, using a dataset composed of  source code, signature, or Indicators of Compromise (IOC) that are known to be malicious and finetune a BigCode model with it in order to enable the automated generation and/or distribution of malware or related code.
 
 ## What if I do not understand some of the restrictions in Attachment A of the license?
 Community feedback is essential for us, we are grateful to receive it and answer any questions related to the license. Drafting use restrictions that everyone agrees on and understands for ML models is a challenge. There is a balance to be struck between restrictions being too generic, on the one hand, and restrictions being too narrow and not covering potentially harmful scenarios, on the other hand. We are open to your comments.
