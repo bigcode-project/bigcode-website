@@ -13,7 +13,7 @@ weight: 620
 toc: true
 ---
 
-We are releasing the first set of BigCode models, which are going to be licensed under the CodeML OpenRAIL-M 0.1 license, as we initially stated [here](https://www.bigcode-project.org/docs/about/ip/) and in our membership form. The CodeML OpenRAIL-M 0.1 is an interim version of the license that is being drafted for the release of BigCode in March 2023. This license is an open and responsible AI license (OpenRAIL). 
+We are releasing the first set of BigCode models, which are going to be licensed under the [CodeML OpenRAIL-M 0.1 license](https://huggingface.co/spaces/bigcode/license), as we initially stated [here](https://www.bigcode-project.org/docs/about/ip/) and in our membership form. The CodeML OpenRAIL-M 0.1 is an interim version of the license that is being drafted for the release of BigCode in March 2023. This license is an open and responsible AI license (OpenRAIL). 
 
 ## What is an OpenRAIL license?
 Open Responsible AI Licenses (OpenRAIL) are licenses designed to permit free and open access, re-use, and downstream distribution of derivatives of AI artifacts, for research, commercial or non-commercial purposes, as long as the use restrictions present in the license always apply (including to derivative works). For more information, please access the RAIL Initiative [post](https://www.licenses.ai/blog/2022/8/18/naming-convention-of-responsible-ai-licenses).
@@ -91,6 +91,5 @@ Lastly, developers should inform end-users of their applications that there is a
 ## What if the model hallucinates sensitive data in its output?
 It is possible that a large language model can hallucinate and output sensitive data such as Personally Identifiable Information (PII). This is clearly an unintended output, but it is a real risk that should be managed deliberately and with care. While the dataset may already have been screened for PII, some PII may not have been completely or accurately detected, annotated, or anonymized. As with malware, users of the model are responsible for adhering to laws and best practices pertaining to the handling and processing of PII in their own use of the model.
 
-Contact details:
-BigCode: [contact@bigcode-project.org](mailto:contact@bigcode-project.org)
+Contact details: [contact@bigcode-project.org](mailto:contact@bigcode-project.org)
 
