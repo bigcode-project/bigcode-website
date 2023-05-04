@@ -1,5 +1,5 @@
 ---
-title: "BigCode OpenRAIL-M - FAQ"
+title: "BigCode OpenRAIL-M"
 description: ""
 lead: ""
 date: 2020-11-12T15:22:20+01:00
@@ -12,7 +12,7 @@ menu:
 weight: 620
 toc: true
 ---
-We are releasing StarCoder, which is licensed under the BigCode OpenRAIL-M license agreement, as we initially stated here and in our membership form. 
+We are releasing [StarCoder](https://huggingface.co/bigcode/starcoder) and [StarCoderBase](https://huggingface.co/bigcode/starcoderbase), which are licensed under the [BigCode OpenRAIL-M license agreement](https://huggingface.co/spaces/bigcode/bigcode-model-license-agreement), as we initially stated [here](https://www.bigcode-project.org/docs/about/ip/) and in our membership form. 
 
 ## What is an OpenRAIL license agreement?
 Open Responsible AI Licenses (OpenRAIL) are licenses designed to permit free and open access, re-use, and downstream distribution of modifications of AI artifacts, for research, commercial or non-commercial purposes, as long as the use restrictions present in the license agreement always apply (including to modified material). For more information, please access the RAIL Initiative post.
