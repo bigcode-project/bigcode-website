@@ -1,5 +1,5 @@
 ---
-title: "Timeline, milestones, and community events"
+title: "Milestones"
 description: ""
 lead: ""
 date: 2020-11-16T13:59:39+01:00
