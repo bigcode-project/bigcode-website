@@ -12,14 +12,14 @@ menu:
 weight: 100
 toc: true
 ---
-BigCode is an open scientific collaboration working on the responsible development of large language models for code, empowering the machine learning and open source communities through open governance.
+BigCode is an open scientific collaboration working on the responsible development and use of large language models for code (Code LLMs), empowering the machine learning and open source communities through open governance.
 
-Code LLMs enable the completion and synthesis of code, both from other code snippets and natural language descriptions, and work across a wide range of domains, tasks, and programming languages. These models can, for example, assist professional and citizen developers with building new applications. 
+One of the challenges typically faced by researchers working on Code LLMs is the lack of transparency around the development of these systems. While a handful of papers on code LLMs have been published, they do not always give full insight into the development process, which hinders both external accountability and the ability of all but a few well-funded research labs to meaningfully participate in shaping the technology.  
 
 BigCode [invites AI researchers]({{< relref "docs/about/join.md" >}}) to work together on the development of state-of-the-art code LLMs, and collaborate on research topics such as:
 - Constructing a representative evaluation suite for code LLMs,  covering a diverse set of tasks and programming languages
 - Developing new methods for faster training and inference of  LLMs
-- The legal, ethics, and governance aspects of code LLMs
+- The legal, ethics, governance, and safety aspects of code LLMs
 
 The BigCode project is conducted in the spirit of Open Science.  Datasets, models, and experiments are developed through open collaboration and [released with permissive licenses back to the community]({{< relref "docs/about/ip.md" >}}). While the project has corporate support from ServiceNow and HuggingFace e.g. for hosting models and datasets, and for training compute; all technical governance takes place within working groups and task forces across the community. 
 
