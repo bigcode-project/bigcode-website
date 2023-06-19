@@ -14,10 +14,25 @@ toc: true
 ---
 
 ## Sponsors
-BigCode is led by [ServiceNow Research](https://servicenow.com/research) and [HuggingFace](https://huggingface.co). Both organizations commit research and engineering time to ensure that the collaboration runs smoothly and makes progress towards the pre-set goals. ServiceNow Research also makes their compute cluster available for large-scale training. 
+BigCode is a community project jointly led by [Hugging Face](https://huggingface.co) and [ServiceNow](https://servicenow.com/research). Both organizations committed research, engineering, ethics, governance, and legal resources to ensure that the collaboration runs smoothly and makes progress towards the stated goals. ServiceNow Research and Hugging Face have made their respective compute clusters available for large-scale training of the BigCode models, and Hugging Face hosts the datasets, models, and related applications from the community to make it easy for everyone to access and use. 
+
+## Project Governance
+The BigCode project is governed by a steering committee jointly led by ServiceNow and Hugging Face, and is responsible for organizing and managing the project (including research strategy and publication goals), and provides oversight across all working groups.  
+
+Decisions that cannot be addressed at the community level are elevated to the lead of the Working Group for facilitated discussion, with further inputs and tie-breaker decision making by the Steering Committee as a last resort.  
+
+Governance for the project is open, meaning that the BigCode project encourages anyone from the community to join any working group or task force of interest, and for them to engage and contribute to work and decision making in the group. 
+
+Please see the [Governance Card](https://huggingface.co/datasets/bigcode/governance-card) for more details.  
 
 ## Members
-We will shortly provide more details on the governance structure of the project. For now, the organization is led by **core members** of ServiceNow and HuggingFace while we are onboarding **contributors**. Core members dedicate a significant portion of their working time to the BigCode project whereas contributors advise on specific aspects of the project or take on smaller tasks. 
+BigCode is a research collaboration and is open to participants who: 
+- have a professional research background and 
+- are able to commit time to the project. 
+
+In general, participants are affiliated with a research organization (either in academia or industry) and work on the technical/ethical/legal aspects of LLMs for coding applications.  
+
+Community-invited guest subject matter experts are also encouraged to participate in relevant discussions where they are able to make an active contribution to the goals of the project. 
 
 ## Operations
 We run the BigCode project through the following tools and platforms:
@@ -26,6 +41,10 @@ We run the BigCode project through the following tools and platforms:
 - We train models with a clone of [Megatron-LM](https://github.com/NVIDIA/Megatron-LM)
 - We host all code repositories on [Github](https://github.com/bigcode-project)
 - We host all model weights and datasets on [HuggingFace](https://huggingface.co/BigCode)
+
+## Supporters 
+We are thankful for the support and contributions of the broader AI ecosystem, and would like to thank [Toloka](https://www.toloka.ai), for supporting BigCode with the use of their crowd platform and professional services in support of work in our PII task force.
+ 
 
 <!-- ## Bi-yearly goals
 Big Code runs on a bi-yearly cadence. Each half year, the core members discuss and set milestones for the next six months of work. You can find the objectives for the first iteration here.  -->
