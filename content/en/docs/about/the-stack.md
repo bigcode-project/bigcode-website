@@ -18,8 +18,8 @@ As part of the BigCode project, we released and will maintain [The Stack](https:
 | Release    | Description                    |
 | ---------- | ------------------------------ |
 | v1.0       | Initial release of the Stack. Included 30 programming languages and 18 permissive licenses. Note: Three included licenses (MPL/EPL/LGPL) are considered weak copyleft licenses. The resulting near-deduplicated dataset is 3TB in size.    |
-| v1.1       |  The three copyleft licenses (MPL/EPL/LGPL) were excluded and the list of permissive licenses extended to 193 licenses in total. The list of programming languages was increased from 30 to 358 languages. Also opt-out request submitted by 15.11.2022 were excluded from this ersion of the dataset. The resulting near-deduplicated dataset is 6TB in size.     |
-| v1.2       | Opt-out request submitted by 09.02.2023 were excluded from this ersion of the dataset as well as initially flagged malicious files (not exhaustive). |
+| v1.1       |  The three copyleft licenses (MPL/EPL/LGPL) were excluded and the list of permissive licenses extended to 193 licenses in total. The list of programming languages was increased from 30 to 358 languages. Also opt-out request submitted by 15.11.2022 were excluded from this version of the dataset. The resulting near-deduplicated dataset is 6TB in size.     |
+| v1.2       | Opt-out request submitted by 09.02.2023 were excluded from this version of the dataset as well as initially flagged malicious files (not exhaustive). |
 
 ## Datasets and data governance tools released by BigCode
 - [The Stack](https://huggingface.co/datasets/bigcode/the-stack): Exact deduplicated version of The Stack. 
